@@ -226,8 +226,8 @@ soul-mirror -b 1990-05-20 -t 8 --verify
 ## 📮 联系我们
 
 - 💬 Issues: [GitHub Issues](https://github.com/yourusername/soul-mirror/issues)
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 📧 Email: danaanwer@outlook.com
+
 
 ---
 
