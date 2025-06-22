@@ -43,7 +43,7 @@
     "压力山大": {
       "兴奋": 1,
       "焦虑": 1,
-      "疲惫": 7
+      "疲惫": 9
     },
     "但是": {
       "兴奋": 1
@@ -92,11 +92,11 @@
       "高兴": 2
     },
     "爆了": {
-      "愤怒": 3,
+      "愤怒": 5,
       "高兴": 11
     },
     "太开心了": {
-      "高兴": 7
+      "高兴": 9
     },
     "烦死了": {
       "愤怒": 1
@@ -135,13 +135,13 @@
       "高兴": 1
     },
     "又出现新": {
-      "愤怒": 8
-    },
-    "气死了": {
       "愤怒": 10
     },
+    "气死了": {
+      "愤怒": 12
+    },
     "快到了": {
-      "疲惫": 10
+      "疲惫": 12
     },
     "有点焦虑": {
       "疲惫": 3,
@@ -164,7 +164,7 @@
     },
     "今天代码写得": {
       "高兴": 6,
-      "愤怒": 1
+      "愤怒": 3
     },
     "感觉超棒": {
       "高兴": 2
@@ -197,52 +197,52 @@
       "愤怒": 1
     },
     "真香": {
-      "高兴": 6
+      "高兴": 8
     },
     "这是什么鬼": {
-      "愤怒": 6
+      "愤怒": 8
     },
     "离谱": {
-      "愤怒": 6
+      "愤怒": 8
     },
     "心情很糟": {
       "焦虑": 1,
-      "悲伤": 5
+      "悲伤": 7
     },
     "破防了": {
       "高兴": 2,
       "愤怒": 1,
-      "悲伤": 4
+      "悲伤": 6
     },
     "有点慌": {
-      "焦虑": 6
+      "焦虑": 8
     },
     "累成狗了": {
-      "疲惫": 6
+      "疲惫": 8
     },
     "电量不足": {
-      "疲惫": 6
+      "疲惫": 8
     },
     "佛系": {
-      "平静": 6
+      "平静": 8
     },
     "心如止水": {
-      "平静": 6
+      "平静": 8
     },
     "今天天气不错": {
-      "高兴": 6
+      "高兴": 8
     },
     "心情也还可以": {
-      "高兴": 6
+      "高兴": 8
     },
     "代码写得顺利": {
-      "高兴": 6
+      "高兴": 8
     },
     "团队合作愉快": {
-      "高兴": 6
+      "高兴": 8
     },
     "爆了爽翻天开心死了": {
-      "高兴": 6
+      "高兴": 8
     },
     "今天心情很愉快": {
       "高兴": 1
@@ -300,363 +300,6 @@
     }
   },
   "emotionHistory": [
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 40,
-      "timestamp": "2025-06-22T12:40:21.929Z",
-      "context": {}
-    },
-    {
-      "mood": "焦虑",
-      "element": "水",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:21.936Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:21.944Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:21.951Z",
-      "context": {}
-    },
-    {
-      "mood": "平静",
-      "element": "金",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:21.959Z",
-      "context": {}
-    },
-    {
-      "mood": "平静",
-      "element": "金",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:21.966Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 42,
-      "timestamp": "2025-06-22T12:40:21.974Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 69,
-      "timestamp": "2025-06-22T12:40:21.982Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:21.989Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 73,
-      "timestamp": "2025-06-22T12:40:21.998Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 42,
-      "timestamp": "2025-06-22T12:40:27.890Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.898Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 67,
-      "timestamp": "2025-06-22T12:40:27.909Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 48,
-      "timestamp": "2025-06-22T12:40:27.921Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 71,
-      "timestamp": "2025-06-22T12:40:27.931Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.939Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.947Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.954Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 40,
-      "timestamp": "2025-06-22T12:40:27.961Z",
-      "context": {}
-    },
-    {
-      "mood": "焦虑",
-      "element": "水",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.968Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.975Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.983Z",
-      "context": {}
-    },
-    {
-      "mood": "平静",
-      "element": "金",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.991Z",
-      "context": {}
-    },
-    {
-      "mood": "平静",
-      "element": "金",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:27.997Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 42,
-      "timestamp": "2025-06-22T12:40:28.005Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 69,
-      "timestamp": "2025-06-22T12:40:28.011Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:28.018Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 73,
-      "timestamp": "2025-06-22T12:40:28.028Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 42,
-      "timestamp": "2025-06-22T12:40:36.479Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.487Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 67,
-      "timestamp": "2025-06-22T12:40:36.498Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 48,
-      "timestamp": "2025-06-22T12:40:36.507Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 71,
-      "timestamp": "2025-06-22T12:40:36.515Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.522Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.530Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.537Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 40,
-      "timestamp": "2025-06-22T12:40:36.547Z",
-      "context": {}
-    },
-    {
-      "mood": "焦虑",
-      "element": "水",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.565Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.572Z",
-      "context": {}
-    },
-    {
-      "mood": "疲惫",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.579Z",
-      "context": {}
-    },
-    {
-      "mood": "平静",
-      "element": "金",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.586Z",
-      "context": {}
-    },
-    {
-      "mood": "平静",
-      "element": "金",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.593Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 42,
-      "timestamp": "2025-06-22T12:40:36.600Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 69,
-      "timestamp": "2025-06-22T12:40:36.608Z",
-      "context": {}
-    },
-    {
-      "mood": "悲伤",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:40:36.614Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 73,
-      "timestamp": "2025-06-22T12:40:36.623Z",
-      "context": {}
-    },
-    {
-      "mood": "惊讶",
-      "element": "土",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:49:44.928Z",
-      "context": {}
-    },
-    {
-      "mood": "愤怒",
-      "element": "火",
-      "confidence": 58,
-      "timestamp": "2025-06-22T12:50:17.596Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 95,
-      "timestamp": "2025-06-22T12:55:10.444Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 95,
-      "timestamp": "2025-06-22T13:05:52.850Z",
-      "context": {}
-    },
-    {
-      "mood": "高兴",
-      "element": "木",
-      "confidence": 71,
-      "timestamp": "2025-06-22T14:19:30.516Z",
-      "context": {}
-    },
     {
       "mood": "高兴",
       "element": "木",
@@ -809,6 +452,258 @@
       "element": "木",
       "confidence": 73,
       "timestamp": "2025-06-22T14:35:55.861Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "木",
+      "confidence": 36,
+      "timestamp": "2025-06-22T14:44:23.470Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.477Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 63,
+      "timestamp": "2025-06-22T14:44:23.491Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "火",
+      "confidence": 45,
+      "timestamp": "2025-06-22T14:44:23.572Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "火",
+      "confidence": 75,
+      "timestamp": "2025-06-22T14:44:23.582Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "火",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.592Z",
+      "context": {}
+    },
+    {
+      "mood": "悲伤",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.602Z",
+      "context": {}
+    },
+    {
+      "mood": "悲伤",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.611Z",
+      "context": {}
+    },
+    {
+      "mood": "疲惫",
+      "element": "土",
+      "confidence": 39,
+      "timestamp": "2025-06-22T14:44:23.619Z",
+      "context": {}
+    },
+    {
+      "mood": "焦虑",
+      "element": "水",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.626Z",
+      "context": {}
+    },
+    {
+      "mood": "疲惫",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.634Z",
+      "context": {}
+    },
+    {
+      "mood": "疲惫",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.641Z",
+      "context": {}
+    },
+    {
+      "mood": "平静",
+      "element": "金",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.650Z",
+      "context": {}
+    },
+    {
+      "mood": "平静",
+      "element": "金",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.657Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 40,
+      "timestamp": "2025-06-22T14:44:23.665Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 62,
+      "timestamp": "2025-06-22T14:44:23.674Z",
+      "context": {}
+    },
+    {
+      "mood": "悲伤",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:23.681Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 73,
+      "timestamp": "2025-06-22T14:44:23.692Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "木",
+      "confidence": 36,
+      "timestamp": "2025-06-22T14:44:47.903Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.912Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 63,
+      "timestamp": "2025-06-22T14:44:47.926Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "火",
+      "confidence": 45,
+      "timestamp": "2025-06-22T14:44:47.935Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "火",
+      "confidence": 75,
+      "timestamp": "2025-06-22T14:44:47.942Z",
+      "context": {}
+    },
+    {
+      "mood": "愤怒",
+      "element": "火",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.950Z",
+      "context": {}
+    },
+    {
+      "mood": "悲伤",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.958Z",
+      "context": {}
+    },
+    {
+      "mood": "悲伤",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.965Z",
+      "context": {}
+    },
+    {
+      "mood": "疲惫",
+      "element": "土",
+      "confidence": 39,
+      "timestamp": "2025-06-22T14:44:47.972Z",
+      "context": {}
+    },
+    {
+      "mood": "焦虑",
+      "element": "水",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.981Z",
+      "context": {}
+    },
+    {
+      "mood": "疲惫",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.988Z",
+      "context": {}
+    },
+    {
+      "mood": "疲惫",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:47.996Z",
+      "context": {}
+    },
+    {
+      "mood": "平静",
+      "element": "金",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:48.003Z",
+      "context": {}
+    },
+    {
+      "mood": "平静",
+      "element": "金",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:48.010Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 40,
+      "timestamp": "2025-06-22T14:44:48.017Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 62,
+      "timestamp": "2025-06-22T14:44:48.026Z",
+      "context": {}
+    },
+    {
+      "mood": "悲伤",
+      "element": "土",
+      "confidence": 95,
+      "timestamp": "2025-06-22T14:44:48.033Z",
+      "context": {}
+    },
+    {
+      "mood": "高兴",
+      "element": "木",
+      "confidence": 73,
+      "timestamp": "2025-06-22T14:44:48.043Z",
       "context": {}
     }
   ],

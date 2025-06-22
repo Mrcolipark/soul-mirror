@@ -150,6 +150,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.738Z",
         "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.477Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.912Z",
+        "textLength": 4
       }
     ],
     "烦死了": [
@@ -271,6 +283,18 @@
         "mood": "愤怒",
         "confidence": 45,
         "timestamp": "2025-06-22T14:35:55.754Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 45,
+        "timestamp": "2025-06-22T14:44:23.572Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 45,
+        "timestamp": "2025-06-22T14:44:47.935Z",
         "textLength": 12
       }
     ],
@@ -454,6 +478,18 @@
         "confidence": 36,
         "timestamp": "2025-06-22T14:35:55.729Z",
         "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 36,
+        "timestamp": "2025-06-22T14:44:23.470Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 36,
+        "timestamp": "2025-06-22T14:44:47.903Z",
+        "textLength": 12
       }
     ],
     "##真香": [
@@ -491,6 +527,18 @@
         "mood": "高兴",
         "confidence": 63,
         "timestamp": "2025-06-22T14:35:55.747Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 63,
+        "timestamp": "2025-06-22T14:44:23.491Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 63,
+        "timestamp": "2025-06-22T14:44:47.926Z",
         "textLength": 6
       }
     ],
@@ -530,6 +578,18 @@
         "confidence": 75,
         "timestamp": "2025-06-22T14:35:55.761Z",
         "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 75,
+        "timestamp": "2025-06-22T14:44:23.582Z",
+        "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 75,
+        "timestamp": "2025-06-22T14:44:47.942Z",
+        "textLength": 8
       }
     ],
     "离谱": [
@@ -568,6 +628,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.769Z",
         "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.592Z",
+        "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.950Z",
+        "textLength": 2
       }
     ],
     "##了心情很糟": [
@@ -605,6 +677,18 @@
         "mood": "悲伤",
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.776Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.602Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.958Z",
         "textLength": 9
       }
     ],
@@ -650,6 +734,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.784Z",
         "textLength": 3
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.611Z",
+        "textLength": 3
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.965Z",
+        "textLength": 3
       }
     ],
     "##快到了压力山大": [
@@ -687,6 +783,18 @@
         "mood": "疲惫",
         "confidence": 39,
         "timestamp": "2025-06-22T14:35:55.791Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 39,
+        "timestamp": "2025-06-22T14:44:23.619Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 39,
+        "timestamp": "2025-06-22T14:44:47.972Z",
         "textLength": 16
       }
     ],
@@ -726,6 +834,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.799Z",
         "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.626Z",
+        "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.981Z",
+        "textLength": 3
       }
     ],
     "累成狗了": [
@@ -763,6 +883,18 @@
         "mood": "疲惫",
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.806Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.634Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.988Z",
         "textLength": 4
       }
     ],
@@ -802,6 +934,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.814Z",
         "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.641Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:47.996Z",
+        "textLength": 4
       }
     ],
     "佛系": [
@@ -839,6 +983,18 @@
         "mood": "平静",
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.822Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.650Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:48.003Z",
         "textLength": 2
       }
     ],
@@ -878,6 +1034,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.830Z",
         "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.657Z",
+        "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:48.010Z",
+        "textLength": 4
       }
     ],
     "今天天气不错心情也还可以代码写得顺利团队": [
@@ -915,6 +1083,18 @@
         "mood": "高兴",
         "confidence": 40,
         "timestamp": "2025-06-22T14:35:55.837Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 40,
+        "timestamp": "2025-06-22T14:44:23.665Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 40,
+        "timestamp": "2025-06-22T14:44:48.017Z",
         "textLength": 27
       }
     ],
@@ -954,6 +1134,18 @@
         "confidence": 62,
         "timestamp": "2025-06-22T14:35:55.845Z",
         "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 62,
+        "timestamp": "2025-06-22T14:44:23.674Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 62,
+        "timestamp": "2025-06-22T14:44:48.026Z",
+        "textLength": 13
       }
     ],
     "嗯": [
@@ -992,6 +1184,18 @@
         "confidence": 95,
         "timestamp": "2025-06-22T14:35:55.851Z",
         "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:23.681Z",
+        "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:44:48.033Z",
+        "textLength": 1
       }
     ],
     "#EMPTY#": [
@@ -1029,6 +1233,18 @@
         "mood": "高兴",
         "confidence": 73,
         "timestamp": "2025-06-22T14:35:55.861Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T14:44:23.692Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T14:44:48.043Z",
         "textLength": 6
       }
     ],
