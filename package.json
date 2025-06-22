@@ -1,0 +1,81 @@
+{
+  "name": "soul-mirror",
+  "version": "1.0.0",
+  "description": "🔮 融合千年易学智慧与现代AI技术，为程序员量身打造的命理情绪分析工具。94.1%情绪识别准确率，秒级响应，支持五行人格分析与实时运势指导。",
+  "main": "bin/cli.js",
+  "bin": {
+    "soul-mirror": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "npm run test:basic && npm run test:emotion",
+    "test:basic": "node test/bazi.test.js",
+    "test:emotion": "node test/emotion.test.js",
+    "dev": "node bin/cli.js --birthday 1996-12-19 --time 14 --mood '今天心情不错' --debug",
+    "validate": "node scripts/validate-install.js",
+    "prepublishOnly": "npm test && npm run validate"
+  },
+  "keywords": [
+    "bazi",
+    "八字",
+    "fortune-telling",
+    "mood-analysis",
+    "emotion-detection",
+    "programmer",
+    "cli-tool",
+    "chinese-culture",
+    "wuxing",
+    "五行",
+    "divination",
+    "命理",
+    "情绪分析",
+    "程序员工具",
+    "traditional-chinese-medicine",
+    "ai-emotion",
+    "developer-tools",
+    "mental-health",
+    "personality-analysis",
+    "易经",
+    "i-ching",
+    "chinese-astrology",
+    "emotional-intelligence",
+    "ntusd",
+    "sentiment-analysis"
+  ],
+  "author": {
+    "name": "Soul Mirror Team",
+    "email": "contact@soul-mirror.dev",
+    "url": "https://github.com/soul-mirror/soul-mirror"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/soul-mirror/soul-mirror#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soul-mirror/soul-mirror.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soul-mirror/soul-mirror/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "preferGlobal": true,
+  "files": [
+    "bin/",
+    "lib/",
+    "data/ganzhi.json",
+    "data/jieqi.json",
+    "lunar.js",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ]
+}

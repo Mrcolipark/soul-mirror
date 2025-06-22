@@ -1,0 +1,44 @@
+# Test files
+test/
+*.test.js
+
+# Development files
+scripts/ntusd-processor.js
+
+# Source data files
+data/ntusd/*.txt
+data/ntusd/*.gz
+
+# Personal notes
+CLAUDE.md
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Development dependencies
+node_modules/
+
+# Documentation source
+docs/
+
+# CI/CD
+.github/
+.travis.yml
+.circleci/
+
+# Coverage
+coverage/
+.nyc_output/

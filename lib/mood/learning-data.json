@@ -1,0 +1,1200 @@
+{
+  "textPatterns": {
+    "今天真开心代码写得很顺利": [
+      {
+        "mood": "兴奋",
+        "confidence": 33,
+        "timestamp": "2025-06-22T10:20:41.768Z",
+        "textLength": 13
+      }
+    ],
+    "今天很焦虑项目##要到了": [
+      {
+        "mood": "焦虑",
+        "confidence": 33,
+        "timestamp": "2025-06-22T10:20:50.151Z",
+        "textLength": 19
+      }
+    ],
+    "工作累了想休息": [
+      {
+        "mood": "疲惫",
+        "confidence": 49,
+        "timestamp": "2025-06-22T10:20:57.891Z",
+        "textLength": 8
+      }
+    ],
+    "##今天解决了一个很难的##": [
+      {
+        "mood": "兴奋",
+        "confidence": 58,
+        "timestamp": "2025-06-22T10:21:15.706Z",
+        "textLength": 22
+      }
+    ],
+    "焦虑死了明天要演示项目": [
+      {
+        "mood": "焦虑",
+        "confidence": 33,
+        "timestamp": "2025-06-22T10:21:15.931Z",
+        "textLength": 12
+      }
+    ],
+    "呵呵又要加班了": [
+      {
+        "mood": "无奈",
+        "confidence": 74,
+        "timestamp": "2025-06-22T10:21:16.159Z",
+        "textLength": 8
+      }
+    ],
+    "今晚熬夜修##压力山大但是##搞定了##": [
+      {
+        "mood": "兴奋",
+        "confidence": 83,
+        "timestamp": "2025-06-22T10:21:29.741Z",
+        "textLength": 35
+      }
+    ],
+    "炸裂了今天代码跑通了爽到飞起": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T10:33:19.264Z",
+        "textLength": 17
+      }
+    ],
+    "##这个##怎么还没修好气死我了": [
+      {
+        "mood": "愤怒",
+        "confidence": 91,
+        "timestamp": "2025-06-22T10:33:28.496Z",
+        "textLength": 20
+      }
+    ],
+    "内卷太严重了####岁焦虑跟不上新技术": [
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T10:33:36.628Z",
+        "textLength": 19
+      }
+    ],
+    "期待新项目上线满怀期待冲冲冲": [
+      {
+        "mood": "期待",
+        "confidence": 95,
+        "timestamp": "2025-06-22T10:33:45.277Z",
+        "textLength": 17
+      }
+    ],
+    "今天的心情简直##爆了": [
+      {
+        "mood": "愤怒",
+        "confidence": 66,
+        "timestamp": "2025-06-22T10:47:05.310Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 83,
+        "timestamp": "2025-06-22T11:07:18.010Z",
+        "textLength": 14
+      },
+      {
+        "mood": "高兴",
+        "confidence": 91,
+        "timestamp": "2025-06-22T11:15:04.003Z",
+        "textLength": 13
+      }
+    ],
+    "太开心了": [
+      {
+        "mood": "高兴",
+        "confidence": 38,
+        "timestamp": "2025-06-22T11:07:18.016Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.383Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:39:59.984Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.869Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.898Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.487Z",
+        "textLength": 4
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.738Z",
+        "textLength": 4
+      }
+    ],
+    "烦死了": [
+      {
+        "mood": "愤怒",
+        "confidence": 28,
+        "timestamp": "2025-06-22T11:07:18.026Z",
+        "textLength": 3
+      }
+    ],
+    "爆了": [
+      {
+        "mood": "愤怒",
+        "confidence": 28,
+        "timestamp": "2025-06-22T11:07:18.033Z",
+        "textLength": 2
+      }
+    ],
+    "##翻了": [
+      {
+        "mood": "高兴",
+        "confidence": 46,
+        "timestamp": "2025-06-22T11:07:18.041Z",
+        "textLength": 6
+      }
+    ],
+    "开心爆了": [
+      {
+        "mood": "高兴",
+        "confidence": 36,
+        "timestamp": "2025-06-22T11:07:18.048Z",
+        "textLength": 4
+      }
+    ],
+    "气炸了": [
+      {
+        "mood": "愤怒",
+        "confidence": 36,
+        "timestamp": "2025-06-22T11:07:18.054Z",
+        "textLength": 3
+      }
+    ],
+    "今天写代码写得##爆了特别开心": [
+      {
+        "mood": "高兴",
+        "confidence": 91,
+        "timestamp": "2025-06-22T11:07:30.144Z",
+        "textLength": 18
+      }
+    ],
+    "项目要爆炸了压力山大": [
+      {
+        "mood": "焦虑",
+        "confidence": 85,
+        "timestamp": "2025-06-22T11:07:30.150Z",
+        "textLength": 11
+      }
+    ],
+    "代码##通过了爽翻天了": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:07:30.159Z",
+        "textLength": 16
+      }
+    ],
+    "##修复了心情美美哒": [
+      {
+        "mood": "高兴",
+        "confidence": 91,
+        "timestamp": "2025-06-22T11:07:30.167Z",
+        "textLength": 12
+      }
+    ],
+    "又出现新##了气死了": [
+      {
+        "mood": "愤怒",
+        "confidence": 58,
+        "timestamp": "2025-06-22T11:07:30.174Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 48,
+        "timestamp": "2025-06-22T11:29:44.266Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 48,
+        "timestamp": "2025-06-22T12:14:59.405Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 48,
+        "timestamp": "2025-06-22T12:40:00.005Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 48,
+        "timestamp": "2025-06-22T12:40:21.892Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 48,
+        "timestamp": "2025-06-22T12:40:27.921Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 48,
+        "timestamp": "2025-06-22T12:40:36.507Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 45,
+        "timestamp": "2025-06-22T14:35:55.754Z",
+        "textLength": 12
+      }
+    ],
+    "##快到了有点焦虑": [
+      {
+        "mood": "疲惫",
+        "confidence": 83,
+        "timestamp": "2025-06-22T11:07:30.181Z",
+        "textLength": 16
+      }
+    ],
+    "终于完成了这个功能太满足了": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:07:30.188Z",
+        "textLength": 14
+      }
+    ],
+    "太烦人了": [
+      {
+        "mood": "愤怒",
+        "confidence": 28,
+        "timestamp": "2025-06-22T11:16:46.344Z",
+        "textLength": 5
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:32:13.504Z",
+        "textLength": 5
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:32:17.509Z",
+        "textLength": 5
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:35:18.775Z",
+        "textLength": 5
+      }
+    ],
+    "太烦了": [
+      {
+        "mood": "愤怒",
+        "confidence": 15,
+        "timestamp": "2025-06-22T11:17:01.162Z",
+        "textLength": 3
+      }
+    ],
+    "太忧郁了": [
+      {
+        "mood": "悲伤",
+        "confidence": 28,
+        "timestamp": "2025-06-22T11:17:26.322Z",
+        "textLength": 4
+      }
+    ],
+    "今天代码写得##爆了感觉超棒": [
+      {
+        "mood": "高兴",
+        "confidence": 59,
+        "timestamp": "2025-06-22T11:26:11.594Z",
+        "textLength": 17
+      }
+    ],
+    "项目又出##了气死了": [
+      {
+        "mood": "愤怒",
+        "confidence": 45,
+        "timestamp": "2025-06-22T11:26:11.601Z",
+        "textLength": 12
+      }
+    ],
+    "有点焦虑##快到了": [
+      {
+        "mood": "疲惫",
+        "confidence": 35,
+        "timestamp": "2025-06-22T11:26:11.616Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 35,
+        "timestamp": "2025-06-22T11:29:50.963Z",
+        "textLength": 16
+      }
+    ],
+    "今天写代码写得##爆了特别有成就感": [
+      {
+        "mood": "高兴",
+        "confidence": 34,
+        "timestamp": "2025-06-22T11:29:21.143Z",
+        "textLength": 20
+      }
+    ],
+    "今天写代码写得##爆了感觉超棒": [
+      {
+        "mood": "高兴",
+        "confidence": 59,
+        "timestamp": "2025-06-22T11:30:23.305Z",
+        "textLength": 18
+      }
+    ],
+    "我希望一切顺利": [
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:36:00.953Z",
+        "textLength": 7
+      }
+    ],
+    "悲伤": [
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:36:17.286Z",
+        "textLength": 2
+      }
+    ],
+    "今天很开心": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T11:36:48.166Z",
+        "textLength": 6
+      }
+    ],
+    "今天##太多了心态崩了": [
+      {
+        "mood": "焦虑",
+        "confidence": 58,
+        "timestamp": "2025-06-22T12:02:03.323Z",
+        "textLength": 13
+      }
+    ],
+    "今天很烦": [
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:07:56.003Z",
+        "textLength": 5
+      }
+    ],
+    "今天代码写得##爆了": [
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:14:59.375Z",
+        "textLength": 12
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:39:59.977Z",
+        "textLength": 12
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:21.860Z",
+        "textLength": 12
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:27.890Z",
+        "textLength": 12
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:36.479Z",
+        "textLength": 12
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 36,
+        "timestamp": "2025-06-22T14:35:55.729Z",
+        "textLength": 12
+      }
+    ],
+    "##真香": [
+      {
+        "mood": "高兴",
+        "confidence": 67,
+        "timestamp": "2025-06-22T12:14:59.396Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 67,
+        "timestamp": "2025-06-22T12:39:59.996Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 67,
+        "timestamp": "2025-06-22T12:40:21.881Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 67,
+        "timestamp": "2025-06-22T12:40:27.909Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 67,
+        "timestamp": "2025-06-22T12:40:36.498Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 63,
+        "timestamp": "2025-06-22T14:35:55.747Z",
+        "textLength": 6
+      }
+    ],
+    "##这是什么鬼": [
+      {
+        "mood": "愤怒",
+        "confidence": 71,
+        "timestamp": "2025-06-22T12:14:59.412Z",
+        "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 71,
+        "timestamp": "2025-06-22T12:40:00.014Z",
+        "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 71,
+        "timestamp": "2025-06-22T12:40:21.900Z",
+        "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 71,
+        "timestamp": "2025-06-22T12:40:27.931Z",
+        "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 71,
+        "timestamp": "2025-06-22T12:40:36.515Z",
+        "textLength": 8
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 75,
+        "timestamp": "2025-06-22T14:35:55.761Z",
+        "textLength": 8
+      }
+    ],
+    "离谱": [
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.421Z",
+        "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.021Z",
+        "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.907Z",
+        "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.939Z",
+        "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.522Z",
+        "textLength": 2
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.769Z",
+        "textLength": 2
+      }
+    ],
+    "##了心情很糟": [
+      {
+        "mood": "焦虑",
+        "confidence": 55,
+        "timestamp": "2025-06-22T12:14:59.427Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.029Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.915Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.947Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.530Z",
+        "textLength": 9
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.776Z",
+        "textLength": 9
+      }
+    ],
+    "破防了": [
+      {
+        "mood": "高兴",
+        "confidence": 50,
+        "timestamp": "2025-06-22T12:14:59.434Z",
+        "textLength": 3
+      },
+      {
+        "mood": "高兴",
+        "confidence": 50,
+        "timestamp": "2025-06-22T12:24:33.918Z",
+        "textLength": 3
+      },
+      {
+        "mood": "愤怒",
+        "confidence": 52,
+        "timestamp": "2025-06-22T12:40:00.036Z",
+        "textLength": 3
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.921Z",
+        "textLength": 3
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.954Z",
+        "textLength": 3
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.537Z",
+        "textLength": 3
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.784Z",
+        "textLength": 3
+      }
+    ],
+    "##快到了压力山大": [
+      {
+        "mood": "疲惫",
+        "confidence": 40,
+        "timestamp": "2025-06-22T12:14:59.440Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 40,
+        "timestamp": "2025-06-22T12:40:00.044Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 40,
+        "timestamp": "2025-06-22T12:40:21.929Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 40,
+        "timestamp": "2025-06-22T12:40:27.961Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 40,
+        "timestamp": "2025-06-22T12:40:36.547Z",
+        "textLength": 16
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 39,
+        "timestamp": "2025-06-22T14:35:55.791Z",
+        "textLength": 16
+      }
+    ],
+    "有点慌": [
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.447Z",
+        "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.053Z",
+        "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.936Z",
+        "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.968Z",
+        "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.565Z",
+        "textLength": 3
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.799Z",
+        "textLength": 3
+      }
+    ],
+    "累成狗了": [
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.454Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.059Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.944Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.975Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.572Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.806Z",
+        "textLength": 4
+      }
+    ],
+    "电量不足": [
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.460Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.067Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.951Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.983Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.579Z",
+        "textLength": 4
+      },
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.814Z",
+        "textLength": 4
+      }
+    ],
+    "佛系": [
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.469Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.076Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.959Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.991Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.586Z",
+        "textLength": 2
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.822Z",
+        "textLength": 2
+      }
+    ],
+    "心如止水": [
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.475Z",
+        "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.084Z",
+        "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.966Z",
+        "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:27.997Z",
+        "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.593Z",
+        "textLength": 4
+      },
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.830Z",
+        "textLength": 4
+      }
+    ],
+    "今天天气不错心情也还可以代码写得顺利团队": [
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:14:59.482Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:00.092Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:21.974Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:28.005Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 42,
+        "timestamp": "2025-06-22T12:40:36.600Z",
+        "textLength": 27
+      },
+      {
+        "mood": "高兴",
+        "confidence": 40,
+        "timestamp": "2025-06-22T14:35:55.837Z",
+        "textLength": 27
+      }
+    ],
+    "##爆了爽翻天开心死了": [
+      {
+        "mood": "高兴",
+        "confidence": 69,
+        "timestamp": "2025-06-22T12:14:59.490Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 69,
+        "timestamp": "2025-06-22T12:40:00.099Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 69,
+        "timestamp": "2025-06-22T12:40:21.982Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 69,
+        "timestamp": "2025-06-22T12:40:28.011Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 69,
+        "timestamp": "2025-06-22T12:40:36.608Z",
+        "textLength": 13
+      },
+      {
+        "mood": "高兴",
+        "confidence": 62,
+        "timestamp": "2025-06-22T14:35:55.845Z",
+        "textLength": 13
+      }
+    ],
+    "嗯": [
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:14:59.496Z",
+        "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:00.105Z",
+        "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:21.989Z",
+        "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:28.018Z",
+        "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:40:36.614Z",
+        "textLength": 1
+      },
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:35:55.851Z",
+        "textLength": 1
+      }
+    ],
+    "#EMPTY#": [
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T12:14:59.504Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T12:40:00.114Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T12:40:21.998Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T12:40:28.028Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T12:40:36.623Z",
+        "textLength": 6
+      },
+      {
+        "mood": "高兴",
+        "confidence": 73,
+        "timestamp": "2025-06-22T14:35:55.861Z",
+        "textLength": 6
+      }
+    ],
+    "今天心情很愉快": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:33.419Z",
+        "textLength": 7
+      }
+    ],
+    "有点##": [
+      {
+        "mood": "悲伤",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:33.663Z",
+        "textLength": 5
+      }
+    ],
+    "感觉有点紧张": [
+      {
+        "mood": "焦虑",
+        "confidence": 39,
+        "timestamp": "2025-06-22T12:24:34.642Z",
+        "textLength": 6
+      }
+    ],
+    "状态满分": [
+      {
+        "mood": "高兴",
+        "confidence": 65,
+        "timestamp": "2025-06-22T12:24:34.901Z",
+        "textLength": 4
+      }
+    ],
+    "想打人": [
+      {
+        "mood": "愤怒",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:35.381Z",
+        "textLength": 3
+      }
+    ],
+    "累爆了": [
+      {
+        "mood": "疲惫",
+        "confidence": 39,
+        "timestamp": "2025-06-22T12:24:35.636Z",
+        "textLength": 3
+      }
+    ],
+    "有点烦躁": [
+      {
+        "mood": "愤怒",
+        "confidence": 79,
+        "timestamp": "2025-06-22T12:24:36.371Z",
+        "textLength": 4
+      }
+    ],
+    "炸裂了": [
+      {
+        "mood": "高兴",
+        "confidence": 43,
+        "timestamp": "2025-06-22T12:24:36.852Z",
+        "textLength": 3
+      }
+    ],
+    "开心到飞起": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:37.341Z",
+        "textLength": 5
+      }
+    ],
+    "想躺平": [
+      {
+        "mood": "平静",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:37.591Z",
+        "textLength": 3
+      }
+    ],
+    "如履薄冰": [
+      {
+        "mood": "焦虑",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:37.834Z",
+        "textLength": 4
+      }
+    ],
+    "想把电脑砸了": [
+      {
+        "mood": "疲惫",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:24:38.084Z",
+        "textLength": 6
+      }
+    ],
+    "心情##到极致听周杰伦都没用": [
+      {
+        "mood": "惊讶",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:49:44.928Z",
+        "textLength": 17
+      }
+    ],
+    "老被印度人##烦气死了": [
+      {
+        "mood": "愤怒",
+        "confidence": 58,
+        "timestamp": "2025-06-22T12:50:17.596Z",
+        "textLength": 12
+      }
+    ],
+    "开心": [
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T12:55:10.444Z",
+        "textLength": 2
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T13:05:52.850Z",
+        "textLength": 2
+      },
+      {
+        "mood": "高兴",
+        "confidence": 95,
+        "timestamp": "2025-06-22T14:21:36.263Z",
+        "textLength": 2
+      }
+    ],
+    "今天写代码很开心新功能终于实现了": [
+      {
+        "mood": "高兴",
+        "confidence": 71,
+        "timestamp": "2025-06-22T14:19:30.516Z",
+        "textLength": 17
+      }
+    ],
+    "压力山大项目##快到了": [
+      {
+        "mood": "疲惫",
+        "confidence": 39,
+        "timestamp": "2025-06-22T14:22:14.644Z",
+        "textLength": 18
+      }
+    ],
+    "有点焦虑": [
+      {
+        "mood": "焦虑",
+        "confidence": 52,
+        "timestamp": "2025-06-22T14:26:40.922Z",
+        "textLength": 4
+      },
+      {
+        "mood": "焦虑",
+        "confidence": 52,
+        "timestamp": "2025-06-22T14:27:42.795Z",
+        "textLength": 4
+      }
+    ]
+  },
+  "confidenceAdjustments": {},
+  "userFeedback": []
+}
