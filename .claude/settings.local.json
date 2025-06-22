@@ -13,7 +13,9 @@
       "Bash(npm run dev:*)",
       "Bash(curl:*)",
       "WebFetch(domain:github.com)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(npm run validate:*)",
+      "Bash(npm run test:emotion:*)"
     ],
     "deny": []
   }
